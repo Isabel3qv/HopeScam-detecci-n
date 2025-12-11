@@ -5,3 +5,4 @@ pandas
 pillow
 numpy
 opencv-python
+antorcha
