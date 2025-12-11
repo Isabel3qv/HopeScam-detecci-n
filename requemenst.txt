@@ -1,6 +1,7 @@
 streamlit
 torch
 torchvision
-pillow
 pandas
+pillow
 numpy
+opencv-python
